@@ -12,7 +12,12 @@ import './App.css'
 // import App from './react_list.jsx'
 // import App from './react_simple_counter.jsx'
 // import App from './react_simple_counter_native.jsx' // Test again
-
+// import App from './react_quiz_builder.jsx'
+// import App from './react_letter_tiles.jsx'
+// import App from './react_phone_book.jsx'
+// import App from './react_weather_dashboard.jsx'
+// import App from './react_tictactoe.jsx'
+import App from './react_context_api.jsx'
 
 
 

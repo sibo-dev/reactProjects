@@ -9,10 +9,10 @@
 | React List                        | Easy  | Not Completed | [Link](./src/react_list.jsx) |
 | React Simple Counter              | Easy  | Not Completed | [Link](./src/react_simple_counter.jsx) |
 | React Simple Counter (Native)     | Easy  | Not Completed | [Link](./src/react_simple_counter_native.jsx) |
-| React Quiz Builder                | Medium| Not Completed | [Link]() |
-| React Letter Tiles                | Medium| Not Completed | [Link]() |
-| React Phone Book                  | Medium| Not Completed | [Link]() |
+| React Quiz Builder                | Medium| Not Completed | [Link](./src/react_quiz_builder.jsx) |
+| React Letter Tiles                | Medium| Not Completed | [Link](./src/react_letter_tiles.jsx) |
+| React Phone Book                  | Medium| Not Completed | [Link](./src/react_phone_book.jsx) |
 | React Native ToDo List            | Hard  | Not Completed | [Link]() |
-| React Weather Dashboard           | Hard  | Not Completed | [Link]() |
-| React Tic Tac Toe                 | Hard  | Not Completed | [Link]() |
-| React Context API                 | Hard  | Not Completed | [Link]() |
+| React Weather Dashboard           | Hard  | Not Completed | [Link](./src/react_weather_dashboard.jsx) |
+| React Tic Tac Toe                 | Hard  | Not Completed | [Link](./src/react_tictactoe.jsx) |
+| React Context API                 | Hard  | Not Completed | [Link](./src/react_context_api.jsx) |
